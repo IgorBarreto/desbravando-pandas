@@ -1,5 +1,9 @@
 # %%
+import warnings
 import pandas as pd
+
+
+warnings.filterwarnings('ignore')
 
 # %%
 df = pd.read_csv('data/pedido.csv')

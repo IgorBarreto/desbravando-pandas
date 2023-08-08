@@ -19,7 +19,3 @@ df.mean()
 
 # %%
 df.describe()
-
-# %%
-
-# %%
